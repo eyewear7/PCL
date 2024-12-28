@@ -92,10 +92,6 @@ V1.0 (2024/8/19) - 更新内容|
           <TextBlock Text="订阅地址 (无 CDN 加速): " />
           <local:MyTextButton Margin="2" Text="https://eyewear7.github.io/Custom.xaml" EventType="复制文本" EventData="https://ad-closenn.github.io/aft/Custom.xaml" ToolTip="点击复制到剪贴板" />
         </StackPanel>
-        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
-          <TextBlock TextWrapping="Wrap" Text="订阅地址: " />
-          <local:MyTextButton Margin="2" Text="https://pcl2.ygwyy.top/Custom.xaml" ToolTip="点击复制到剪贴板" />
-        </StackPanel>
         <StackPanel Orientation="Horizontal" Margin="0,2,0,0">
           <TextBlock Text="官方网站: " />
           <local:MyTextButton Margin="2" Text="https://ygwyy.top" EventType="打开网页" EventData="https://ygwyy.top" ToolTip="点击打开主页官网" />
